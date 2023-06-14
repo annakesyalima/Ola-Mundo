@@ -30,4 +30,44 @@
  - [ ] task 2
  - [ ] task 3
  
+ 
+ ---
+ [Acesse meu GitHub](https://github.com/annakesyalima)
+ 
+ ---
+ # Tabela
+ Num | Nome | Nota
+ ---|---|---
+ 1 | Maria | 7,5
+ 2 | Cláudio | 8
+ 3 | Rosa | 10
+ 
+ Termonou a tabela
+ 
+ # Comandos
+ 
+ Alguns comandos em JavaScript `document.getElementById()`.
+ Programa simples em Python:
+ 
+ ```
+ num = int(input('Digite um número: ')
+ if num % 2 == 0:
+     print(f'O valor {num} é PAR')
+ else:
+     print(f'O valor {num} é IMPAR')
+ ```
+ 
+ 
+ # Emogi
+ 
+ mão ✋
+ et 👽
+ coração 🫀
+ 
+ # Quote
+ 
+ > Ser ou não ser
+ 
+ citação
+ 
  Linha adicionada no GitHub
